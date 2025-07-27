@@ -1,0 +1,6 @@
+ambTCC/
+__pycache__/
+*.pyc
+.vscode/
+.env
+instr.txt
