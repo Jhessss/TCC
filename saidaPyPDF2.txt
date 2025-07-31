@@ -1,0 +1,197 @@
+Ato nº 2436, de 7 de mar ço de 2023
+Publicado: Terça, 0 7 Março 2023 14:18 | Última a tualização: Se xta, 1 7 Janeir o 2025 09:55 | Acessos: 25871
+   
+ 
+Observ ação : Este texto não substitui o publicado no Bole tim de Serviç o Ele trônic o em 13/3/2023 .
+ 
+O SUPERINTENDENTE DE OUT ORGA E RECURSO S À PREST AÇÃO DA AGÊNCIA  NACIONAL  DE
+TELE COMUNIC AÇÕES , no uso das a tribuiç ões que lhe f oram c onferidas pela Portaria nº 419, de 24 de maio de 2013 , e
+CONSIDER ANDO a compe tência dada à Agência pelos Incisos XIII e XIV do Art. 19 da Lei n.º 9.472/97 – Lei Geral de
+Telec omunicaç ões;
+CONSIDER ANDO que  os Requisit os Técnic os estabelec em os parâme tros e critérios técnic os veriﬁcados na Avaliação
+da Conformidade de um ou mais tipos de produt o para telec omunicaç ões, nos termos do art. 22 do Regulamen to para
+Avaliação da Conformidade e Homologação de Produt os para Telec omunicaç ões, aprovado pela Resolução nº 715, de 23
+de outubr o de 2019; e,
+CONSIDER ANDO o c onstan te dos aut os do processo nº 53500.032306/ 2022- 74;
+RESOL VE:
+Art. 1º  Aprovar os requisit os mínimos manda tórios de segur ança ciberné tica para avaliação da conformidade de
+equipamen tos CPE ( Cust omer  Premises E quipmen t), na f orma do anexo a est e Ato.
+Art. 2º  E ste Ato en tra em vigor  em 10 de mar ço de 2024.
+Art. 2º Este Ato entra em vigor  em 1º de julho de 2023, sendo manda tória a aplicação de seu anexo a partir  de 10 de
+março de 2024. (R edação dada pelo Ato nº 7344, de 15 de junho de 2023 )
+VINICIUS OLIVEIR AA CARAM GUIMAR ÃES
+Superin tenden te de Out orga e R ecursos à Pr estação 
+ANEX O AO ATO Nº 2436, DE 0 7 DE MARÇ O DE 2023
+REQUISIT OS MÍNÍNIMO S DE SEGURA NÇA CIBERNÉTIC A PARA  AVALIA ÇÃO DA CONF ORMID ADE DE
+EQUIP AMENT OS CPE ( CUST OMER PREMISES E QUIPMENT )
+1. OBJETIV O E ABRANGÊNCIA
+1.1. Estabelec er um conjun to de requisit os mínimos de segur ança ciberné tica de aplicação manda tória para
+avaliação da conformidade dos seguin tes equipamen tos CPE de uso do públic o em geral empr egados para
+conectar  assinan tes à r ede do pr ovedor  de serviç os de In terne t:
+a) Cabl e modem;
+b) Modem xDSL;
+c) ONU , ONT ;
+d) Roteador  ou modem destinados ao ac esso ﬁx o sem ﬁo (FW A - Fixed Wireless Access);
+e) Roteador  ou modem destinados ao ac esso ﬁx o à banda lar ga via sa télite; e
+f) Roteador  ou pon to de ac esso sem ﬁo .
+2. REFERÊNCIA S NORMA TIVAS   2.1. Regulamen to de Avaliação da Conformidade e de Homologação de Produt os para Telec omunicaç ões,
+aprovado pela R esolução nº 715, de 23 de outubr o de 2019;
+2.2. Regulamen to de Segur ança Ciberné tica Aplicada ao Setor de Telec omunicaç ões, aprovado pela Resolução
+nº 740, de 21 de de zembr o de 2020;
+2.3. Requisit os de Segur ança Ciberné tica para Equipamen tos para Telec omunicaç ões, aprovados pelo Ato nº 77,
+de 05 de janeir o de 2021;
+2.4. NST Special  Public ation 800-63B - Digit al Identity Guidelines - Authen tication and Lif ecycle Managemen t;
+2.5. Broadband F orum - TR-181 Issue-2 ;
+2.6. ISO/IEC 2914 7:2018  - Informa tion t echnol ogy – Security  techniques – Vulner ability  discl osur e;
+2.7. ISO/IEC 30111:2019  - Informa tion t echnol ogy – Security  techniques – Vulner ability  handling pr ocesses;
+2.8. The CER T Guide t o Coor dina ted Vulner ability  Discl osur e;
+2.9. FIRS T Common Vulner ability  Scoring S ystem SIG, The Common Vulner ability  Scoring S ystem ( CVSS);
+2.10.  Common Vulner ability  Enumer ation ( CVE), The MITRE Corpor ation, C VE Pr ogram.
+3. DEFINIÇ ÕES
+3.1. Aplicam-se as de ﬁnições c ontidas nas r eferências norma tivas 2.1  a 2.3 adicionadas às seguin tes:
+3.1.1. Dicionário de senhas: arquiv o que contém uma lista de pala vras e frases comum ente utilizadas como
+senha. O dicionário é compost o por senhas obtidas em inciden tes de vazamen to de dados de autenticação que
+se tornar am públic os dos quais são extraídas informaç ões esta tísticas das senhas mais utilizadas por usuários.
+O dicionário pode conter, por exemplo , senhas de fácil memorização (ex.: 12345678, abcdefgh, abcde1234,
+qwerty123, senha12345) ou lista de senhas de associadas a um determinado contexto de aplicação ou de
+equipamen to (ex.: admin123, pass word, root1234, r outer123, serv er123).
+3.1.2. Públic o em geral: qualquer  pessoa que utiliza e/ou tem acesso ao produt o e que não possui
+conhecimen to técnic o especializado sobr e o equipamen to para telec omunicação e que tem interesse apenas
+no empr ego das suas funcionalidades e no c onsumo dos serviç os de t elec omunicação .
+3.1.3. Senha fraca: senha que não atende simultaneamen te os seguin tes critérios:  (Redação dada pelo Ato
+nº 45, de 02 janeir o de 2025 )
+a) possuir , no mínimo , 8 car acteres; 
+b) conter, pelo menos, uma letra maiúscula, uma letra minúscula, um númer o e um caractere
+especial.  
+3.1.3. Senha fr aca: senha que não a tende ao menos um dos seguin tes crit érios:
+a) possuir , no mínimo , 8 car acteres;
+b) conter, pelo menos, uma le tra maiúscula, uma le tra minúscula e um númer o.
+ 
+4. RE QUISIT OS PARA  AS SENHA S PR OVIDAS DE F ÁBRIC A
+4.1. Os requisit os desta seção aplicam-se às senhas para acesso à interface de conﬁgur ações do equipamen to e
+para acesso à r ede sem ﬁo de ﬁnidas no pr ocesso f abril  do equipamen to.
+4.2. As senhas não podem ser fr acas, c onforme crit érios c ontidos no item 3.1.3 .
+4.3. O equipamen to deve apresen tar conformidade aos seguin tes itens dos Requisit os de Segur ança Ciberné tica
+para Equipamen tos par a Telec omunicaç ões ( Referência 2.3 ):
+a) Não utilizar  credenciais e senhas iniciais para acesso às suas conﬁgur ações que sejam iguais entre todos
+os dispositiv os pr oduzidos.
+b) Não utilizar  senhas iniciais que sejam deriv adas de informaç ões de fácil obtenção por métodos de
+escaneamen to de tr áfego de dados em r ede, tal  como ender eços MA C - Media Access Con trol.
+c) Não permitir  o uso de senhas em br anco ou senhas fr acas.4.4. Alterna tivamen te ao atendimen to dos requisit os especiﬁcados nos itens 4.2 e 4.3, o equipamen to poder á
+forçar, na primeir a utilização , a alteração da senha inicial  de acesso à sua conﬁgur ação , conforme Requisit os de
+Segur ança Ciberné tica para Equipamen tos para Telec omunicaç ões (Referência 2.3) e das senhas para acesso à rede
+sem ﬁo .
+4.4.1. Neste caso , a interface de conﬁgur ação do equipamen to deverá exigir que, no ato de sua primeir a
+utilização/ conﬁgur ação ou após um  reset para suas conﬁgur ações iniciais de fábrica, o usuário deﬁna novas
+senhas que atendam aos requisit os estabelecidos no item 5. A oper ação ou conﬁgur ação do equipamen to só
+poder á ser  realizada após a de ﬁnição de no vas senhas.
+4.5. As senhas devem constar  em etique ta no corpo do equipamen to e devem ser restaur adas sempr e que for
+realizado o  reset do equipamen to par a suas c onﬁgur ações iniciais de f ábrica.
+5. RE QUISIT OS PARA  AS SENHA S DEFINID AS PEL O USU ÁRIO
+5.1. Os requisit os desta seção aplicam-se às funcionalidades do equipamen to relacio nadas às senhas deﬁnidas
+pelo usuário par a acesso à in terface de c onﬁgur ações do equipamen to e par a acesso à r ede sem ﬁo .
+5.2. O equipamen to de ve apr esen tar conformidade aos seguin tes requisit os:
+a) Não permitir  o uso de senhas em branco ou senhas fracas, conforme  Requisit os de Segur ança
+Ciberné tica par a Equipamen tos par a Telec omunicaç ões ( Referência 2.3 ).
+b) Gar antir que não sejam de ﬁnidas senhas fr acas, c onforme crit érios c ontidos no item 3.1.3 .
+c) O manual  do produt o, em meio físico ou digital,  deve informar  as quan tidades mínima e máxima de
+caracteres permitidas par a de ﬁnição de senhas, além da r egra par a sua f ormação .
+5.3. O equipamen to deve implemen tar veriﬁcaç ões que coíbam a deﬁnição de senhas fracas ou comumen te
+utilizadas. A veriﬁcação pode ser feita por meio de compar ação com dicionários de senha, sendo permitida a adoção
+de outr a me todologia.
+5.3.1. A metodologia adotada deverá ser informada pelo requer ente da homologação ao agen te
+responsá vel pela a valiação da c onformidade do pr odut o.
+6. DEMAIS RE QUISIT OS DE SE GURANÇ A DO E QUIP AMENT O
+6.1. O equipamen to deve apresen tar conformidade aos seguin tes itens dos Requisit os de Segur ança Ciberné tica
+para Equipamen tos par a Telec omunicaç ões ( Referência 2.3 ):
+a) Possuir  mecanismos de defesa contra tentativas exaustiv as de acesso não autorizado (ataques de
+autenticação por  força bruta).
+b) Não utilizar  credenciais, senhas e chaves criptográﬁcas deﬁnidas no próprio código fonte
+do software/ﬁrmware e que não podem ser  alteradas ( hard-coded ).
+c) Proteger  senhas, chaves de acesso e credenciais armaz enadas ou transmitidas utilizando métodos
+adequados de crip tograﬁa ou  hashing .
+d) Implemen tar rotinas de enc erramen to de sessões ina tivas (timeou t).
+e) Ser fornecido com serviç os de comunicação de dados (serviç o associado a uma porta/ port) não
+usualmen te utilizados desabilitados, r eduzindo sua superfície de a taque.
+f) Facultar  ao usuário a possibilidade de desabilitar  funcionalidades e serviç os de comunicação não
+essenciais à oper ação ou ao ger enciamen to do equipamen to.
+6.2. O mecanismo de recuper ação de senha, caso implemen tado no equipamen to, deverá ser robust o contra
+tentativas de roubo de credenciais, conforme item  dos Requisit os de Segur ança Ciberné tica para Equipamen tos
+para Telec omunicaç ões ( Referência 2.3 ).
+6.2.1. O mecanismo adotado deverá ser informado pelo requer ente da homologação ao agen te
+responsá vel pela a valiação da c onformidade do pr odut o.
+7. REQUISIT OS QUE DEVEM SER ATENDIDO S PEL OS FORNE CEDORES DO S EQUIP AMENT OS
+7.1. Os fornec edor es dos equipamen tos que desempenham função de CPE relacionados em 1.1 devem
+demonstr ar atendimen to aos seguin tes itens dos Requisit os de Segur ança Ciberné tica para Equipamen tos para
+Telec omunicaç ões ( Referência 2.3 ):
+7.1.1. Item 6.1.1 - Possuir  uma política clara de supor te ao produt o, especialmen te em relação à
+disponibilização de a tualizaç ões de  software/ﬁrmware para correção de vulner abilidades de segur ança.7.1.1.1. A política pode estabelec er condiç ões especíﬁcas conforme modelos, linhas ou categorias de
+produt os e deve descr ever as cobertur as gerais mínimas válidas para qualquer  consumidor  que adquirir  o
+produt o, seja pessoa física ou jurídica, e de ve ser  divulgada publicamen te por  meio de página na In terne t.
+7.1.1.2. Con tratos de suport e com c obertur as dif erenciadas estão f ora do esc opo dest e requisit o.
+7.1.2. Item 6.1.2  - Deix ar claro para o consumidor  até quando e em quais situaç ões serão providas
+atualizaç ões de segur ança par a o equipamen to.
+7.1.2.1. E ste item de ve compor  a política especiﬁcada no item 7 .1.1.
+7.1.3. Item 6.1.4  - Garantir o provimen to de atualizaç ões de segur ança por, no mínimo , 2 (dois) anos após o
+lançamen to do produt o ou enquan to o equipamen to estiv er sendo distribuído ao mercado consumidor , sendo
+aplicá vel a opção que mais se est ender .
+7.1.3.1. Dur ante est e período , as a tualizaç ões de vem ser  providas sem cust os adicionais ao c onsumidor .
+7.1.4. Item 6.1.5  - Disponibilizar  um canal  de comunicação que possibilit e aos seus clien tes, usuários ﬁnais e
+terceiros no tiﬁcar em vulner abilidades de segur ança iden tiﬁcadas nos pr odut os.
+7.1.4.1. E ste canal  deve:
+a) ser  exclusiv o par a a no tiﬁcação de vulner abilidades; e
+b) implemen tar comunicaç ões segur as como , por exemplo: formulário web com uso de HTTPS,
+e-mail  criptografado com PGP  ou outro esquema de chave pública (a chave pública associada ao
+ender eço de e-mail  deve ser disponibilizada para que os interessados possam, se assim desejar em,
+enviar mensagens cifr adas).
+7.1.5. Item 6.1.6  - Possuir  implemen tado processo de Divulgação Coor denada de Vulner abilidades baseados
+em boas práticas e recomendaç ões reconhecidas internacionalmen te, tais como as referências  2.6 a 2.8 dest e
+documen to.
+7.1.5.1. A Política de Divulgação Coor denada de Vulner abilidade do fornec edor  deve ser publicada em
+sua página na In terne t e de ve contemplar , no mínimo , os seguin tes itens:
+a) Os obje tivos do fornec edor , suas responsabilidades, bem como o que ele esper a de outras
+partes in teressadas.
+b) Como deseja ser notiﬁcado (ex.: e-mail, formulário em página na Interne t) e os respectiv os
+contatos (ex.: ender eço de e-mail, URL  de f ormulário web).
+c) Detalhamen to das opções de comunicação segur a (ex.: chave PGP  para e-mail, formulário
+segur o via HTTPS).
+d) Quais in formaç ões o no tiﬁcador  deve incluir  na no tiﬁcação .
+e) O que o notiﬁcador  deve esper ar após reportar  uma vulner abilidade como , por exemplo:
+reconhecimen to do recebimen to da notiﬁcação , reconhecimen to da vulner abilidade, atualizaç ões na
+evolução do caso e seus r espectiv os pr azos.
+f) Orientação sobr e o que está dentro e fora do escopo do processo de notiﬁcação , suas
+limitaç ões, e tc.
+7.1.6. Item 6.1.7 e seus subit ens - Disponibilizar  um canal  públic o de suport e, por meio de página na interne t
+em língua portuguesa, par a:
+a) Informar  sobr e novas vulner abilidades iden tiﬁcadas em seus produt os, medidas de mitigação e
+correções de segur ança associadas, c om no mínimo as seguin tes in formaç ões:
+•   Identiﬁcador: c ódigo de iden tiﬁcação e xclusiv o par a cada c omunicado .
+•   Título: referência genérica e sucin ta referente ao(s) produt o(s) afetado(s) e à vulner abilidade
+corrigida.
+•  Visão geral: breve resumo de alto nível sobr e a vulner abilidade para que os usuários possam
+entender  os pon tos principais e de terminar  rapidamen te se o a viso é aplicá vel ao seu ambien te.
+•  Descrição: descrição com mais informaç ões que permitam aos usuários entender em como são
+afetados e avaliar em sua exposição . Não deve fornec er detalhes a ponto de permitir  a explor ação da
+vulner abilidade.•   Pr odut os afetados: uma lista de pr odut os afetados c onhecidos e suas versões.
+•  Impact o: informaç ões que descr evam o impact o da vulner abilidade (por exemplo , negação de
+serviç o, execução de códigos maliciosos) e a criticidade da vulner abilidade por meio de sistema de
+pontuação de se veridade r econhecido in ternacionalmen te (ex.: CVSS - R eferência 2. 7).
+•   Solução (ou Mitigação ): informaç ões sobr e a ação que os usuários devem realizar  para corrigir
+ou remediar  a vulner abilidade e seu impact o.
+•   Créditos: reconhecimen to ao desc obridor  (notiﬁcador ) por relatar a vulner abilidade e/ou outros
+envolvidos no pr ocesso de solução .
+•   Histórico de Revisão: versão e data da publicação original.   Pode conter um histórico de
+modiﬁcaç ões se o bole tim f or atualizado post eriormen te.
+b) Manter histórico de: vulner abilidades iden tiﬁcadas, medidas de mitigação e correções de
+segur ança;
+c) Permitir  acesso a correções de segur ança e/ou novas versões de software/ﬁrmware para seus
+produt os; e
+d) Fornec er manuais e outros materiais com orien tações relativas à conﬁgur ação , atualização e uso
+segur o dos equipamen tos.
+7.1.6.1. A ﬁm de garantir a agilidade na disponibilização de informaç ões sobr e vulner abilidades
+iden tiﬁcadas em produt os, seu fabrican te ou fornec edor  poder á prover tais informações por meio de
+página de suport e global  na interne t em língua inglesa, desde que instruç ões para acessar  tal canal  de
+suport e global  estejam disponív eis em português na página do f ornec edor  nacional.
+7.2. A compr ovação de conformidade ao conjun to de requisit os contidos em 7.1 poder á ser realizada median te
+apresen tação da Política de Segur ança Ciberné tica do fornec edor  que contempl e e compr ove atendimen to à
+íntegra dos r equisit os.
